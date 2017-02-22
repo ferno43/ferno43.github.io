@@ -1,0 +1,141 @@
+body{
+
+}
+
+h1{
+
+text-transform:uppercase;
+text-shadow:1px 1px #FFFFFF;
+
+color:red;
+margin-left:20px;
+
+display:block;
+text-decoration:none;
+border:5px double;
+color:#fffffF;
+background-color:#484848;
+text-align:center;
+font-size:1.75rem;
+margin:5px 5px 9px 5px;
+padding:15px 0;
+position:relative;
+
+border-radius:25px;
+box-shadow:
+inset 1px 1px 84px rgba(0,0,0,0,24),
+inset -1px -1px 84px rgba(0,0,0,0,24),
+inset -3px -3px 84px rgba(0,0,0,0,24),
+inset -5px -5px 84px rgba(0,0,0,0,24),
+inset -7px -7px 84px rgba(0,0,0,0,24),
+inset -9px -9px 84px rgba(0,0,0,0,24);
+
+}
+h2{
+
+margin-left:20px;
+
+display:block;
+text-decoration:none;
+border:5px double;
+color:#fffffF;
+background-color:#565656;
+text-align:center;
+font-size:1.75rem;
+margin:5px 5px 9px 5px;
+padding:15px 0;
+position:relative;
+
+border-radius:25px;
+box-shadow:2px 5px 0 0 rgba(72,72,72,1);
+}
+#box{
+  width:100px;
+  height: 100px;
+  background: red;
+  -webkit-transition:width 2s;
+}
+  #box:hover{
+    width:300px;
+  }
+
+  #caja{
+  width:100px;
+  height: 100px;
+  background-color: green;
+
+  -webkit-transform: rotate(30deg);
+  transition: all 1s ease-in-out;
+  }
+
+  #caja:hover{
+
+
+  -webkit-transform: rotate(60deg);
+
+  }
+
+
+
+
+input[type=submit]{
+  border-radius: 10%;
+  background-clip:padding-box;
+}
+ form {
+
+    width:275px;
+    height: 450px;
+    background: 	#4169E1;
+    border-radius:5px;
+
+
+}
+
+h3{
+  color: #000080;
+   font-style: bold;
+}
+
+button{
+    border-radius:50px;
+    background-color:	#1E90FF;
+    font-size:1.10rem;
+    margin:10px 50px 9px 60px;
+    padding: 8px 25px;
+    border: none;
+}
+
+p{
+  color: white;
+}
+
+li{
+  color: white;
+}
+
+fieldset{
+  color:white;
+}
+
+#seccion1{
+  width:245px;
+  height: 31px;
+  background: #6495ED;
+  border-radius:5px;
+  text-align: justify;
+  border:3px double;
+  display: inline-block;
+  margin:2px 5px 4px 5px;
+}
+
+#seccion2{
+  width:245px;
+  height: 70px;
+  background: #6495ED;
+  border-radius:5px;
+  text-align: justify;
+  border:3px double;
+  display: inline-block;
+  margin:2px 5px 4px 5px;
+}
