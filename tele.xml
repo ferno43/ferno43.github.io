@@ -3,11 +3,45 @@
 
 <programacion>
   <header>Canales de television</header>
-  <c1>
-   <nombre>MTV</nombre>
-   <canal>501</canal>
-   <fecha>19/08/2017</fecha>
-   <serie>Casa de los dibujos</serie>
+  <canal1>
+    <nombre>MTV</nombre>
+    <canal>501</canal>
+    <MTV>
+     <show>Casa de los dibujos</show>
+     <fecha>Lunes y miercoles</fecha>
+    </MTV>
 
-  </c1>
+
+
+ </canal1>
+
+  <canal2>
+    <nombre>ESPN</nombre>
+    <canal>548</canal>
+
+    <series>
+    <NBA>
+      <show>NBA</show>
+      <fecha>Martes y jueves</fecha>
+    </NBA>
+  </series>
+  </canal2>
+
+  <canal3>
+    <nombre>FOX</nombre>
+    <canal>201</canal>
+    <TheSimpsons>
+    <show>The Simpsons</show>
+    <fecha>Todos los dias</fecha>
+  </TheSimpsons>
+  </canal3>
+
+  <canal4>
+    <nombre>Warner</nombre>
+    <canal>205</canal>
+    <Supergirl>
+    <show>Supergirl</show>
+    <fecha>Viernes, Sabado y Domingo</fecha>
+  </Supergirl>
+  </canal4>
 </programacion>

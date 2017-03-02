@@ -3,27 +3,44 @@ header{
   font-size: 26pt;
   font-weight: bold;
   text-align: center;
+  background-color: #5B3EAB;
 }
 nombre{
   display:block;
   font-size: 21pt;
   font-weight: bold;
+  background-color: #F56A3C;
+  width: 30%;
 }
 
 canal{
   display:block;
   font-size: 15pt;
   font-weight: bold;
+  background-color: #DB3AAE;
+  width: 30%;
 }
 
 fecha{
   display:block;
-  font-size: 15pt;
+  font-size: 12pt;
   font-weight: bold;
+  background-color: #DB3AAE;
+  width: 30%;
 }
 
 serie{
   display:block;
   font-size: 15pt;
   font-weight: bold;
+  background-color: #DB3AAE;
+  width: 30%;
+}
+
+show{
+  display:block;
+  font-size: 15pt;
+  font-weight: bold;
+  background-color: #DB3AAE;
+  width: 30%;
 }
