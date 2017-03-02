@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="tele.css"?>
+
+<programacion>
+  <header>Canales de television</header>
+  <c1>
+   <nombre>MTV</nombre>
+   <canal>501</canal>
+   <fecha>19/08/2017</fecha>
+   <serie>Casa de los dibujos</serie>
+
+  </c1>
+</programacion>

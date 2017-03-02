@@ -1,0 +1,29 @@
+header{
+  display:block;
+  font-size: 26pt;
+  font-weight: bold;
+  text-align: center;
+}
+nombre{
+  display:block;
+  font-size: 21pt;
+  font-weight: bold;
+}
+
+canal{
+  display:block;
+  font-size: 15pt;
+  font-weight: bold;
+}
+
+fecha{
+  display:block;
+  font-size: 15pt;
+  font-weight: bold;
+}
+
+serie{
+  display:block;
+  font-size: 15pt;
+  font-weight: bold;
+}
